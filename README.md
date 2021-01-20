@@ -10,6 +10,6 @@ If you want to contact me, the best way is to DM me on Discord: `TrainerGamer#00
 
 ![Trainer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrainerGamer&count_private=true&show_icons=true&theme=algolia)
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrainerGamer)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrainerGamer&theme=algolia)
 
-![TrainerGamer's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrainerGamer)
+![TrainerGamer's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrainerGamer&theme=algolia)
